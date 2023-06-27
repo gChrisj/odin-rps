@@ -45,9 +45,8 @@ function game(){
 let playerWin = 0;
 let computerWin = 0;
 let draw = 0;
-for(let i = 0; i < 5; i++){
+/*for(let i = 0; i < 5; i++){
     let s = game();
-    console.log(s);
    if(s.includes("You win!")){
     playerWin++;
    }else if(s.includes("You lose!")){
@@ -56,4 +55,4 @@ for(let i = 0; i < 5; i++){
     draw++;
    }
 }
-console.log("Player: " + playerWin + " \nComputer: " + computerWin + " \nDraws: " + draw);
+console.log("Player: " + playerWin + " \nComputer: " + computerWin + " \nDraws: " + draw);*/
